@@ -16,10 +16,13 @@ If you have Python-Django installed on your system, you can try out this browser
 
 5) Enjoy!  
 
-* If you're unable or do not wish to run the application, you can see screenshots of interface in the images **"Django Pages.jpg"** and **"Django Pages2.jpg"**
+
+* If you're unable or do not wish to run the application, you can view screenshots of the interface in the images **"Django Pages.jpg"** and **"Django Pages2.jpg"**
+
+* For a pictoral representation of the MySQL tables created in the Microbiome database, see the image **"models and keys.jpg"**
 
 * For an in-depth report on the background, planning and workflow of the project, please see: **"Oral Microbiome Project Report.docx"**
 
-* For a pictoral representation of the MySQL tables created in the Microbiome database, see the image **"models and keys.jpg"**
+
 
 
