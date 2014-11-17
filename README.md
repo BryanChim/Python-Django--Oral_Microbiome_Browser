@@ -2,7 +2,7 @@ Python-Django--Oral_Microbiome_Browser
 ======================================
 This is an extensive bioinformatics project that I completed for my graduate practicum. The final product is an interactive browser-based application that can search for/filter information on the oral microbiome of dental patient samples. 
 
-NOTE: The Python scripts used to parse and reformat the RDP Classifier, Clinical and Taxonomy data are located in the repo **"Python--Bioinformatics" under the directory "PRACTICUM--Oral_Microbiome_Browser"**
+NOTE: The Python scripts used to parse and reformat the RDP Classifier, Clinical and Taxonomy data are located in the repo **"Python--Bioinformatics" under the directory "PRACTICUM--Oral_Microbiome_Browser"** (link: https://github.com/BryanChim/Python--Bioinformatics/tree/master/PRACTICUM--Oral_Microbiome_Browser)
 
 If you have Python-Django installed on your system, you can try out this browser with the following steps:
 
